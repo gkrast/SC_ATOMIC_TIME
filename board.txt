@@ -1,0 +1,4 @@
+# SC_CLIMATE build property overrides
+#
+
+

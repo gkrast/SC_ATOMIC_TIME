@@ -1,0 +1,18 @@
+{
+  "wifi_nets_login": [
+    {
+      "name": "",
+      "pswd": ""
+    },
+    {
+      "name": "",
+      "pswd": ""
+    },
+    {
+      "name": "",
+      "pswd": ""
+    } 
+  ],
+  "time_offset": 0,
+  "flip_lcd": true
+}
